@@ -1,0 +1,31 @@
+[{
+    "id":"1",
+    "detalle":"libro infantil",
+    "precio ":"5500",
+    "estado":"disponible"
+},
+{
+    "id":"2",
+    "detalle":"la receta perfecta",
+    "precio ":"2500",
+    "estado":"disponible"
+},
+{
+    "id":"3",
+    "detalle":"Tincuda la comadrejita puntuda",
+    "precio ":"3500",
+    "estado":"disponible"
+},
+{
+    "id":"4",
+    "detalle":"Seguiremos siendo amigos",
+    "precio ":"2500",
+    "estado":"disponible"
+},
+{
+    "id":"5",
+    "detalle":"La cama magica de bartolo ",
+    "precio ":"3500",
+    "estado":"disponible"
+}
+]
